@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'my_new_pod'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of my_new_pod.'
+  s.summary          = 'How to create own cocopod library '
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
